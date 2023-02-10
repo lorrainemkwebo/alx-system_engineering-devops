@@ -1,2 +1,9 @@
 #!/bin/bash
-ls 
+application
+videos
+pictures
+dropbox
+documents
+public
+movies
+desktop
